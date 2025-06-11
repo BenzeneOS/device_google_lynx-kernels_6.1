@@ -2,6 +2,7 @@ kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51000.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51002.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/smra/smra.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51000-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
 extra/private/google-modules/soc/gs/drivers/iommu/iovad-best-fit-algo.ko
@@ -30,9 +31,11 @@ extra/private/google-modules/bms/max77779_pmic_i2c.ko
 extra/private/google-modules/bms/ln8411.ko
 extra/private/google-modules/bms/max77779-fwupdate.ko
 extra/private/google-modules/bms/rt9471_charger.ko
+extra/private/google-modules/bms/hl7132.ko
 extra/private/google-modules/display/common/gs_panel/gs-panel.ko
 extra/private/google-modules/display/samsung/panel/panel-common.ko
 extra/private/google-modules/edgetpu/janeiro/drivers/edgetpu/janeiro.ko
+extra/private/google-modules/fingerprint/goodix/fps_touch_handler/fps_touch_handler.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
